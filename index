@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Website Seni Abstrak</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header>
+    <h1>Website Seni Abstrak CaNa </h1>
+    <nav>
+        <a href="#" onclick="showSection('beranda')">Beranda</a>
+        <a href="#" onclick="showSection('profil')">Profil</a>
+        <a href="#" onclick="showSection('layanan')">Layanan</a>
+        <a href="#" onclick="showSection('galeri')">Galeri</a>
+        <a href="#" onclick="showSection('kontak')">Kontak</a>
+    </nav>
+</header>
+
+<section id="beranda">
+    <h2 text-align="center">Beranda</h2>
+    <p>
+        Selamat datang di website kami! Temukan berbagai karya seni abstrak yang menarik dan inspiratif.
+        Seni abstrak adalah bahasa universal yang mampu menyampaikan emosi dan perasaan tanpa kata. 
+        Kami akan bekerja sama dengan Anda untuk menciptakan karya seni yang tidak hanya indah secara visual, tetapi juga memiliki makna mendalam bagi Anda.
+        Selamat datang di dunia seni abstrak, di mana imajinasi tidak mengenal batas dan emosi diekspresikan melalui bentuk dan warna. 
+        Seni abstrak adalah perjalanan visual yang mengajak kita untuk melihat lebih dalam, melampaui bentuk dan representasi nyata.
+        Dalam karya-karya ini, setiap garis dan sapuan kuas memiliki makna yang unik. Seniman menciptakan ruang di mana penonton dapat merasakan kebebasan untuk menafsirkan setiap elemen sesuai dengan pengalaman pribadi mereka. 
+        Di sini, tidak ada jawaban yang salah; hanya ada perasaan yang mengalir dan interpretasi yang beragam.
+        Melalui palet warna yang berani dan komposisi yang dinamis, seni abstrak menantang kita untuk merasakan, bukan hanya melihat. 
+        Setiap karya adalah undangan untuk menjelajahi emosi kita sendiri—kebahagiaan, kesedihan, kekacauan, dan kedamaian—dalam cara yang paling murni.
+        Dengan setiap pameran, kami berharap untuk membangun jembatan antara seniman dan penonton, mengajak Anda untuk berpartisipasi dalam dialog yang hidup dan penuh makna.
+        Mari kita rayakan keberagaman ekspresi dan kekuatan seni abstrak dalam menggugah pikiran dan perasaan kita.
+        Selamat menikmati perjalanan ini, dan semoga Anda menemukan keindahan dalam setiap lekuk dan warna yang ada.
+    </p>
+    <img src="img/gambar1.jpg" alt="Seni Abstrak">
+</section>
+
+<section id="profil">
+    <h2>Profil Seni Abstrak</h2>
+    <p>
+        Seni abstrak adalah aliran seni yang menekankan ekspresi melalui bentuk, warna, dan garis tanpa terikat pada representasi nyata. 
+        Dengan fokus pada elemen visual, seni ini mengajak penonton untuk merasakan dan menafsirkan karya dengan cara yang lebih subjektif.
+        Seni abstrak muncul pada awal abad ke-20, dipelopori oleh seniman seperti Wassily Kandinsky, Piet Mondrian, dan Kazimir Malevich.
+        Mereka berusaha melepaskan seni dari keterikatan pada bentuk dan objek yang dapat dikenali, memperkenalkan konsep bahwa warna dan bentuk dapat berdiri sendiri sebagai ekspresi artistik.
+        Seni abstrak telah mempengaruhi banyak gerakan seni dan disiplin kreatif, termasuk desain grafis, arsitektur, dan bahkan musik. 
+        Ia mengajak kita untuk melihat dunia dari perspektif baru, menghargai keindahan dalam ketidakteraturan dan kebebasan ekspresi.
+    </p>
+    <img src="img/gambar3.jpg" alt="Profil Seniman">
+    <h3>Karaktekristik Utama</h3>
+    <p> 1. Non-Representasional: Tidak berusaha meniru bentuk-bentuk nyata, fokus pada elemen visual murni.</p>
+    <p> 2. Emosional: Menciptakan pengalaman yang mendalam, memungkinkan penonton merasakan berbagai emosi.</p> 
+    <p> 3. Eksperimen: Menggunakan berbagai teknik dan media, dari lukisan hingga instalasi, untuk mengekspresikan ide dan perasaan.</p>
+    <p>Kesimpulan Seni abstrak adalah refleksi dari pengalaman manusia yang kompleks, sebuah ruang di mana imajinasi dan perasaan bertemu. 
+        Melalui karya-karya ini, kita diajak untuk menjelajahi kedalaman emosi dan makna, membebaskan diri dari batasan konvensional seni.</p>
+    
+</section>
+
+<section id="layanan">
+    <h2>Layanan</h2>
+    <p>Dengan pengalaman bertahun-tahun, kami telah membantu banyak klien mewujudkan visi mereka dalam bentuk karya seni abstrak yang menakjubkan. Proses pembuatan karya seni kami melibatkan diskusi mendalam dengan Anda untuk memahami gaya dan preferensi Anda.Kami juga menawarkan berbagai layanan seperti pameran seni, workshop seni, dan konsultasi untuk proyek seni pribadi :</p>
+    <h3>Pameran Seni</h3> <img src="img/gambaar.jpg" alt="Layanan Seni" style="width: 1000px">
+    <h3>Workshop Seni</h3> <img src="img/gambar4.jpg" alt="Layanan Seni"style="width: 1000px">
+    <h3>Konsultasi Pribadi ntuk Proyek Seni</h3> <img src="img/konsultasi.jpeg" alt="Layanan Seni"style="width: 1000px">
+</section>
+
+<section id="galeri">
+    <h2>Galeri</h2>
+    <p>Jelajahi koleksi karya seni abstrak kami. Setiap karya memiliki cerita dan makna yang unik-unik :</p>
+   <h3>Abstraksi Eksplorasi Emosi</h3> <img src="img/eksplorasi emosi.jpg" alt="Galeri Seni">
+   <p>Lukisan ini adalah manifestasi dari pusaran emosi yang tak terbendung.
+   Garis-garis tegas beradu dengan goresan lembut, menciptakan harmoni yang kacau.
+    Warna-warna berani saling bersahutan, menggambarkan kedalaman jiwa yang tak terduga.  
+    Setiap goresan kuas adalah sebuah ekspresi murni, sebuah perjalanan menuju kedalaman diri</p>
+    <h3>Abstrak Alam Semesta</h3><img src="img/alam semesta.jpg" alt="Galeri Seni"style="width: 500px">
+    <p>Karya ini adalah sebuah undangan untuk menjelajahi kosmos yang tak terbatas.
+         Bentuk-bentuk organik berpadu dengan geometri abstrak, menciptakan visualisasi dari keajaiban alam semesta. 
+         Warna-warna lembut menginspirasi perasaan tenang dan damai, sementara garis-garis dinamis menyiratkan energi yang tak terhentikan</p>
+   <h3>Abstraksi Urban</h3> <img src="img/urban.jpg" alt="Galeri Seni"style="width: 500px">
+   <p>Terinspirasi oleh hiruk pikuk kehidupan kota, karya ini adalah sebuah potret visual dari ritme modern. 
+    Bentuk-bentuk geometris yang saling tumpang tindih menciptakan sensasi gerakan yang konstan. 
+    Warna-warna kontras menggambarkan dinamika kehidupan perkotaan yang penuh dengan kejutan.</p>
+    <h3>Abstraksi Minimalis</h3><img src="img/minimalis.jpg" alt="Galeri Seni">
+    <p>Dalam kesederhanaan bentuk dan warna, karya ini mengajak penonton untuk merenung. 
+        Garis-garis halus dan bidang-bidang datar menciptakan keseimbangan yang sempurna. 
+        Warna-warna monokromatik membangkitkan perasaan tenang dan fokus, memungkinkan penonton untuk menemukan makna pribadi dalam karya ini.</p>
+</section>
+
+<section id="kontak">
+    <h2>Kontak</h2>
+    <p>Untuk informasi lebih lanjut, silakan hubungi kami di:</p>
+    <p>Email : info@seniabstrakcana.com</p>
+    <p>Telephone : 084246468786</p>
+   
+</section>
+
+<footer>
+    <p>&copy; 2024 Website Seni Abstrak. Semua hak dilindungi.</p>
+</footer>
+
+<script>
+    // Function to show a specific section and hide others
+    function showSection(sectionId) {
+        const sections = document.querySelectorAll('section');
+        sections.forEach(section => {
+            section.style.display = 'none'; // Hide all sections
+        });
+        document.getElementById(sectionId).style.display = 'block'; // Show selected section
+    }
+
+    // Show the default section
+    showSection('beranda');
+</script>
+
+</body>
+</html>
